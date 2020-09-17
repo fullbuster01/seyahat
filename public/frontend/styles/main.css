@@ -517,6 +517,16 @@ header .btn-get-started:hover {
   color: #071c4d;
 }
 
+@media (max-width: 480px) {
+  .page-auth .section-left h1 {
+    font-family: "Playfair Display";
+    font-weight: 600;
+    font-size: 33px;
+    color: #071c4d;
+    text-align: center;
+  }
+}
+
 .page-auth .section-right p {
   margin-bottom: 5px;
   color: #bfbfbf;

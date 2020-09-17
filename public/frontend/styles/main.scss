@@ -609,6 +609,15 @@ header {
             font-size: 45px;
             color: #071c4d;
         }
+        @media (max-width:480px) {
+            h1 {
+                font-family: "Playfair Display";
+                font-weight: 600;
+                font-size: 33px;
+                color: #071c4d;
+                text-align: center;
+            }
+        }
     }
 
     .section-right {
